@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/xliff-app-host/static/css/main.58b278a1.chunk.css",
-    "main.js": "/xliff-app-host/static/js/main.0d3e02b9.chunk.js",
-    "main.js.map": "/xliff-app-host/static/js/main.0d3e02b9.chunk.js.map",
+    "main.js": "/xliff-app-host/static/js/main.6c9a1269.chunk.js",
+    "main.js.map": "/xliff-app-host/static/js/main.6c9a1269.chunk.js.map",
     "runtime-main.js": "/xliff-app-host/static/js/runtime-main.75c44491.js",
     "runtime-main.js.map": "/xliff-app-host/static/js/runtime-main.75c44491.js.map",
     "static/css/2.beae3069.chunk.css": "/xliff-app-host/static/css/2.beae3069.chunk.css",
@@ -18,6 +18,6 @@
     "static/css/2.beae3069.chunk.css",
     "static/js/2.ae1829aa.chunk.js",
     "static/css/main.58b278a1.chunk.css",
-    "static/js/main.0d3e02b9.chunk.js"
+    "static/js/main.6c9a1269.chunk.js"
   ]
 }
